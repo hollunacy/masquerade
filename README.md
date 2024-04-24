@@ -23,6 +23,8 @@
 
 # Продавец может:
 - зарегистрироваться;
+![image](https://github.com/hollunacy/masquerade/assets/76801870/bbb34cad-7e9c-4e2a-84db-94655c040274)
+
 - войти в существующий аккаунт;
 ![image](https://github.com/hollunacy/masquerade/assets/76801870/80f44e9c-c016-47e1-a27c-6d2d3a364f6e)
 
