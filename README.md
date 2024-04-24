@@ -27,6 +27,9 @@
 
 ![image](https://github.com/hollunacy/masquerade/assets/76801870/6edae1a1-4591-4f79-a97b-af290459b5d0)
 
+![image](https://github.com/hollunacy/masquerade/assets/76801870/d3be770e-a721-46df-91fe-0c38fe245998)
+
+
 - перейти на страницу с товарами продавца;
 - оставлять и смотреть отзывы о товарах;
 - оценивать товар и просматривать рейтинги товаров;
