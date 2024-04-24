@@ -6,6 +6,8 @@
 ![image](https://github.com/hollunacy/masquerade/assets/76801870/1741a8c3-b914-4b81-8daf-df0ceeaab9c9)
 
 - войти в существующий аккаунт;
+![image](https://github.com/hollunacy/masquerade/assets/76801870/5996e14a-3dfe-4860-b686-f1a6d93d09e0)
+
 - найти товар через поисковую строку;
 - воспользоваться различными фильтрами при поиске товара;
 - просмотреть карточку товара;
