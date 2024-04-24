@@ -27,6 +27,8 @@
 ![image](https://github.com/hollunacy/masquerade/assets/76801870/80f44e9c-c016-47e1-a27c-6d2d3a364f6e)
 
 - создать карточку товара;
+![image](https://github.com/hollunacy/masquerade/assets/76801870/26d5b43e-381c-4431-a424-4a1e00a5f3fa)
+
 - редактировать карточку товара;
 - выставить товар на продажу;
 - посмотреть историю продаж;
