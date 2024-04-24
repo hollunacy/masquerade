@@ -15,6 +15,9 @@
 ![image](https://github.com/hollunacy/masquerade/assets/76801870/5996e14a-3dfe-4860-b686-f1a6d93d09e0)
 
 - найти товар через поисковую строку;
+
+Поиск товара осуществляется при вводе запроса в соответсвующую строку.
+
 ![image](https://github.com/hollunacy/masquerade/assets/76801870/cb2badce-ade8-40b5-9da0-0ee35d7780b5)
 
 - воспользоваться различными фильтрами при поиске товара;
