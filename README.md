@@ -32,12 +32,12 @@
 - Order status updates
 - Inventory management
 
-## **📸 Project Screenshots**
-1. Homepage 
+## **📸 Screenshots**
+### 1. Homepage 
 ![Homepage](screenshots/products.png)
-2. Product Card
+### 2. Product Card
 ![Product Card](screenshots/product.png)
-3. Shopping Cart
+### 3. Shopping Cart
 ![Shopping Cart](screenshots/cart.png)
 
 ## **📊 Diagrams & Documentation**
