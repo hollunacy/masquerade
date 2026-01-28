@@ -2,7 +2,6 @@
 
 **Masquerade** is a modern, user-friendly e-commerce platform designed to sell stylish and quality clothing for men, women, and children. The platform provides a seamless shopping experience with a rich product catalog, secure payment options, and an intuitive interface for both customers and sellers.
 
-![Screenshot](screenshots/products.png)
 
 
 ## **📌 Project Goals**
@@ -33,25 +32,19 @@
 - Order status updates
 - Inventory management
 
-
-## **⚙️ Tech Stack**
-- Selected for **fast development, reliability, and security**.
-- Tech stack details are based on team expertise and project requirements.
-
+## **📸 Project Screenshots**
+1. Homepage 
+![Homepage](screenshots/products.png)
+2. Product Card
+![Product Card](screenshots/product.png)
+3. Shopping Cart
+![Shopping Cart](screenshots/cart.png)
 
 ## **📊 Diagrams & Documentation**
 - Use-case diagrams (Guest, Buyer, Seller)
 - BPMN & DFD diagrams
 - Developer documentation
 - User manuals
-
-
-## **🧪 Testing**
-Multiple testing methodologies are implemented:
-- Functional & Non-functional
-- Security & Manual testing
-- UI, Module, Acceptance, and System testing
-
 
 ## **✅ System Strengths**
 - Free returns
