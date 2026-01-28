@@ -2,6 +2,8 @@
 
 **Masquerade** is a modern, user-friendly e-commerce platform designed to sell stylish and quality clothing for men, women, and children. The platform provides a seamless shopping experience with a rich product catalog, secure payment options, and an intuitive interface for both customers and sellers.
 
+!(screenshots/products.png)
+
 
 ## **📌 Project Goals**
 - Provide a convenient and secure online shopping environment.
