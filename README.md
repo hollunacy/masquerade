@@ -39,24 +39,3 @@
 ![Product Card](screenshots/product.png)
 ### 3. Shopping Cart
 ![Shopping Cart](screenshots/cart.png)
-
-## **📊 Diagrams & Documentation**
-- Use-case diagrams (Guest, Buyer, Seller)
-- BPMN & DFD diagrams
-- Developer documentation
-- User manuals
-
-## **✅ System Strengths**
-- Free returns
-- No forced discounts
-- Sellers manage their own delivery
-- Home delivery available
-- Low service commission
-
-
-## **⚠️ System Weaknesses**
-- Limited product variety
-- Less refined system features
-- No loyalty program
-- Smaller market reach
-- No fresh food sales
